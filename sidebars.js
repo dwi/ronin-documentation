@@ -239,6 +239,8 @@ const sidebars = {
               link: { type: "doc", id: "developers/network/eip-1559/index" },
               items: ["developers/network/eip-1559/gas-suggestion"],
             },
+            // Flashblocks
+            "developers/network/flashblocks",
           ],
         },
         {
